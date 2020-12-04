@@ -6,7 +6,7 @@
 
 Zoals je bij de vorige opdrachten hebt gezien kun je meerdere datatypes in een array stoppen. Bijvoorbeeld string, of integer. Maar je kunt ook boolean (true of false) en decimale getallen kwijt.
 
-Je kunt allemaal hetzelfde type in een array stoppen zoals bij de vorige opdrachten. De `$movies`-array bevatte alleen maar string-typen.
+Je kunt allemaal hetzelfVde type in een array stoppen zoals bij de vorige opdrachten. De `$movies`-array bevatte alleen maar string-typen.
 
 Je kunt natuurlijk ook verschillende typen toevoegen:
 
